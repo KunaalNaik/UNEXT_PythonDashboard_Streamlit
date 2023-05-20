@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/DELL/Documents/apps/UNEXT_PythonDashboard_Streamlit/mlops/mlruns/0/bf0ccbd37ed8481ba4111ad1ae453416/artifacts
+end_time: 1679555279946
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: bf0ccbd37ed8481ba4111ad1ae453416
+run_name: salty-grouse-881
+run_uuid: bf0ccbd37ed8481ba4111ad1ae453416
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1679555275612
+status: 3
+tags: []
+user_id: DELL

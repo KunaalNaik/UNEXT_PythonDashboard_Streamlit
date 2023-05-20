@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/DELL/Documents/apps/UNEXT_PythonDashboard_Streamlit/mlops/mlruns/0/9ce419dcc2a24e83b555ad8b082234d5/artifacts
+end_time: 1679555077031
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9ce419dcc2a24e83b555ad8b082234d5
+run_name: sedate-newt-380
+run_uuid: 9ce419dcc2a24e83b555ad8b082234d5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1679555069877
+status: 3
+tags: []
+user_id: DELL

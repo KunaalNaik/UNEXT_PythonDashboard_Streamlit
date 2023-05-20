@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/DELL/Documents/apps/UNEXT_PythonDashboard_Streamlit/mlops/mlruns/0/f80ae494d553446b9ba3e895b734bbc2/artifacts
+end_time: 1679555190686
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f80ae494d553446b9ba3e895b734bbc2
+run_name: efficient-ray-104
+run_uuid: f80ae494d553446b9ba3e895b734bbc2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1679555190584
+status: 4
+tags: []
+user_id: DELL
